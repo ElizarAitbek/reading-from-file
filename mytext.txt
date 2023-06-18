@@ -1,0 +1,3 @@
+Hello, my name is Elizar!
+I'm trying to learn C++
+I like and hate it at the same time!
